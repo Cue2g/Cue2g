@@ -48,10 +48,7 @@
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <p>Backend Developer at <a href="https://quash.ai/">Quash</a>
-<p>Frontend Developer at <a href="https://www.flashpayapp.com/">FlashPay app</a>
   
  ### PERSONAL PROJECTS
   - [Cibot](https://github.com/Cue2g/kawic_bot-)
   
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=cue2g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
